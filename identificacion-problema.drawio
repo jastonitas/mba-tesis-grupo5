@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T16:25:04.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gH7SgP2gb6jYU6HMAg3P" version="24.2.8" type="device" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T18:29:01.866Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iCw6koGlpSJ8gnDPKsXy" version="24.2.8" type="device" pages="5">
   <diagram id="WimUWjkdT025YLqE3gCw" name="identificacion-problema">
     <mxGraphModel dx="1171" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -567,6 +567,18 @@
               <mxPoint x="300" y="21" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Py39uTL7WxlPR1SKCOE8-0" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.freepik.com/512/2674/2674996.png;" vertex="1" parent="PeyFrb89phwbwd0O13yF-1">
+          <mxGeometry x="720" y="-86.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Py39uTL7WxlPR1SKCOE8-1" value="Equipo de Seguridad Informática" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PeyFrb89phwbwd0O13yF-1">
+          <mxGeometry x="725" y="-16.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Py39uTL7WxlPR1SKCOE8-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="PeyFrb89phwbwd0O13yF-1">
+          <mxGeometry x="640" y="-279.25" width="20" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Py39uTL7WxlPR1SKCOE8-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;Lineamientos&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontColor=#004C99;" vertex="1" parent="PeyFrb89phwbwd0O13yF-1">
+          <mxGeometry x="600" y="-38.75" width="170" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
