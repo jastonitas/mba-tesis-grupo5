@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T03:21:49.493Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aZ_wwDXKIOWK9a1_qT9j" version="24.2.8" type="device" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-23T03:24:01.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LJYpYdXQyRcdI8rdBakP" version="24.2.8" type="device" pages="5">
   <diagram id="WimUWjkdT025YLqE3gCw" name="identificacion-problema">
     <mxGraphModel dx="1171" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -715,6 +715,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="-704" as="sourcePoint" />
             <mxPoint x="639.99" y="-678" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Poht4vGePhEShwiAaEGt-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Form_Recognizers.svg;" vertex="1" parent="WDYhcxwNP6S0KQxzA37i-1">
+          <mxGeometry x="657.81" y="-1100" width="46.47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Poht4vGePhEShwiAaEGt-12" value="Documento Sign&lt;span style=&quot;background-color: initial;&quot;&gt;-Off&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WDYhcxwNP6S0KQxzA37i-1">
+          <mxGeometry x="650" y="-1041" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Poht4vGePhEShwiAaEGt-13" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=2;endFill=1;strokeColor=#004C99;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WDYhcxwNP6S0KQxzA37i-1" source="NdytPvnnIgi118sJQEEG-4" target="Poht4vGePhEShwiAaEGt-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="-1070" as="sourcePoint" />
+            <mxPoint x="539" y="-1065" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
